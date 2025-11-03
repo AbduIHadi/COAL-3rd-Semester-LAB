@@ -1,0 +1,10 @@
+mov ax, 10
+mov bx, 5
+add ax, bx
+mov cx, 3
+sub ax, cx
+mov dx, 4
+add dx, ax
+mov bx, 2
+sub bx, dx
+sub cx, dx
